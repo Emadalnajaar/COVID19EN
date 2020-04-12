@@ -7,8 +7,6 @@ pip install os
 pip install pandas 
 pip install wget
 pip install plotly
-pip install plotly-express
-pip install plotly.figure_factory
 pip install calmap
 pip install warning
 pip install arabic-reshaper
